@@ -20,6 +20,7 @@ export default {
         'hero': '#B88E2F',
         'c666':'#666',
         'c3A': '#3A3A3A',
+        'c61': '#616161',
       },
       letterSpacing: {
         '3px': '3px',
