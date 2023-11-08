@@ -14,9 +14,14 @@
                 </div>
             </div>
         </Container>
+        <div class="furniro-img">
+            <img src="src/assets/home/furniro.png"/>
+        </div>
     </div>
 </section>
 
 <style>
-
+    .furniro-img{
+        margin-top: -3.5rem;
+    }
 </style>
