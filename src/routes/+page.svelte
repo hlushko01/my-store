@@ -5,6 +5,7 @@
     import Range from "../home/Range.svelte";
     import ProductSection from "../home/ProductSection.svelte";
     import Rooms from "../home/Rooms.svelte";
+    import Furniro from "../home/Furniro.svelte";
   </script>
 
 
@@ -13,6 +14,7 @@
 <Range />
 <ProductSection />
 <Rooms />
+<Furniro></Furniro>
 
 
 
