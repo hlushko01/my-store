@@ -21,6 +21,7 @@ export default {
         'c666':'#666',
         'c3A': '#3A3A3A',
         'c61': '#616161',
+        'c9F': '#9F9F9F'
       },
       letterSpacing: {
         '3px': '3px',

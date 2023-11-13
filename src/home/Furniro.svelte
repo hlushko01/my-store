@@ -5,7 +5,7 @@
 <section>
     <div class="furniro">
         <Container>
-            <div class="furniro__body pt-16">
+            <div class="furniro__body pt-16 pb-12">
                 <div class="text-center text-p20 font-semibold leading-normal text-c61 mb-2">
                     Share your setup with
                 </div>
@@ -14,8 +14,8 @@
                 </div>
             </div>
         </Container>
-        <div class="furniro-img">
-            <img src="src/assets/home/furniro.png"/>
+        <div class="furniro-img max-w-full">
+            <img class="w-full" src="src/assets/home/furniro.png"/>
         </div>
     </div>
 </section>

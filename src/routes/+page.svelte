@@ -6,6 +6,7 @@
     import ProductSection from "../home/ProductSection.svelte";
     import Rooms from "../home/Rooms.svelte";
     import Furniro from "../home/Furniro.svelte";
+    import Footer from "../html-components/Footer.svelte";
   </script>
 
 
@@ -14,8 +15,8 @@
 <Range />
 <ProductSection />
 <Rooms />
-<Furniro></Furniro>
-
+<Furniro />
+<Footer />
 
 
 
