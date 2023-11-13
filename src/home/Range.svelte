@@ -16,19 +16,19 @@
           </div>
           <div class='flex space-x-5 justify-center'>
             <div class="range__item">
-              <img class="mb-8" src="src/assets/home/Dining.png">
+              <img class="mb-8" src="/src/assets/home/Dining.png">
               <div class="text-p24 font-poppins text-c3 leading-normal font-semibold text-center">
                 Dining
               </div>
             </div>
             <div class="range__item">
-              <img class="mb-8" src="src/assets/home/Living.png">
+              <img class="mb-8" src="/src/assets/home/Living.png">
               <div class="text-p24 font-poppins text-c3 leading-normal font-semibold text-center">
                 Living
               </div>
             </div>
             <div class="range__item">
-              <img class="mb-8" src="src/assets/home/Bedroom.png">
+              <img class="mb-8" src="/src/assets/home/Bedroom.png">
               <div class="text-p24 font-poppins text-c3 leading-normal font-semibold text-center">
                 Bedroom
               </div>

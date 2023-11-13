@@ -5,7 +5,7 @@
   
   <Container>
     <div class="flex justify-between items-center py-8">
-        <div><img src="src/assets/home/Logo.svg" alt="Logo"></div>
+        <div><img src="/src/assets/home/Logo.svg" alt="Logo"></div>
         <div class="justify-center space-x-8">
             <a class="text-pop">Home</a>
             <a class="text-pop">Shop</a>

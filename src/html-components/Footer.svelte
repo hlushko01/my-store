@@ -1,5 +1,9 @@
 <script>
     import Container from "./Container.svelte";
+    import Input from "./form-components/Input.svelte";
+
+    let inputValue = '';
+    let placeholder = 'Enter Your Email Address';
 </script>
 
 <footer>
@@ -49,9 +53,10 @@
                         <div class="footer-col__header text-p16 leading-normal font-medium text-c9F mb-14">
                             Newsletter
                         </div>
-                        <form>
-                            
-                        </form>
+                       <!-- <form>
+                            <Input value={inputValue} placeholder="Enter Your Email Address" type="Email" />
+                            Биге
+                        </form> -->
                     </div>
 
                 </div>
