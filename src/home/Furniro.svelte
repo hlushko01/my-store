@@ -16,7 +16,7 @@
             </div>
         </Container>
         <div class="furniro-img max-w-full">
-            <img class="w-full" src="/src/assets/home/furniro.png"/>
+            <img class="w-full" src={Furniro}/>
         </div>
     </div>
 </section>
