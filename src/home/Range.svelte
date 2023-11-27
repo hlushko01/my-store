@@ -31,7 +31,7 @@
               </div>
             </div>
             <div class="range__item">
-              <img class="mb-8" src="/src/assets/home/Bedroom.png">
+              <img class="mb-8" src={Bedroom}>
               <div class="text-p24 font-poppins text-c3 leading-normal font-semibold text-center">
                 Bedroom
               </div>
