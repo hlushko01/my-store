@@ -1,5 +1,6 @@
 <script>
     import Container from "./Container.svelte";
+    import Logo from "../assets/home/Funiro..svg"
     import Input from "./form-components/Input.svelte";
 
     let inputValue = '';
@@ -12,7 +13,7 @@
             <div class="footer__body pt-12">
                 <div class="flex flex-row">
                     <div class="footer-col mr-32">
-                        <img class="mb-12" src="src/assets/home/Funiro..svg" /> 
+                        <img class="mb-12" src={Logo} /> 
                         <div class="text-p16 font-normal text-c9F">
                             400 University Drive Suite 200 Coral Gables,
                             FL 33134 USA
@@ -55,7 +56,7 @@
                         </div>
                        <!-- <form>
                             <Input value={inputValue} placeholder="Enter Your Email Address" type="Email" />
-                            Биге
+                            
                         </form> -->
                     </div>
 

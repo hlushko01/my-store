@@ -1,5 +1,8 @@
 <script>
     import Container from "../html-components/Container.svelte";
+    import Dining from "../assets/home/Dining.png";
+    import Living from "../assets/home/living.png";
+    import Bedroom from "../assets/home/Bedroom.png"
 </script>
 
 <section class="section">
@@ -16,13 +19,13 @@
           </div>
           <div class='flex space-x-5 justify-center'>
             <div class="range__item">
-              <img class="mb-8" src="/src/assets/home/Dining.png">
+              <img class="mb-8" src={Dining}>
               <div class="text-p24 font-poppins text-c3 leading-normal font-semibold text-center">
                 Dining
               </div>
             </div>
             <div class="range__item">
-              <img class="mb-8" src="/src/assets/home/Living.png">
+              <img class="mb-8" src={Living}>
               <div class="text-p24 font-poppins text-c3 leading-normal font-semibold text-center">
                 Living
               </div>

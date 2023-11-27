@@ -1,11 +1,12 @@
 <script>
-    import Container from './Container.svelte'
-    import '../fonts/poppins.css'
+    import Container from './Container.svelte';
+    import '../fonts/poppins.css';
+    import Logo from '../assets/home/Logo.svg'
 </script>
   
   <Container>
     <div class="flex justify-between items-center py-8">
-        <div><img src="/src/assets/home/Logo.svg" alt="Logo"></div>
+        <div><img src={Logo} alt="Logo"></div>
         <div class="justify-center space-x-8">
             <a class="text-pop">Home</a>
             <a class="text-pop">Shop</a>

@@ -1,5 +1,6 @@
 <script>
     import Container from "../html-components/Container.svelte";
+    import Furniro from "../assets/home/furniro.png"
 </script>
 
 <section>
